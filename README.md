@@ -5,4 +5,3 @@ What I Learned
 - Incorporating Vision, CoreML
 - Use of Alamofire to retrieve details of the flower from Wikipedia
 - Use of SDWebImage to present the image by way or imageURL
-- 
